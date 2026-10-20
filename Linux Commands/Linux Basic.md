@@ -40,7 +40,7 @@ Linux内核主要负责以下四种功能：
 
 内核在交换空间和实际物理内存之间反复交换虚拟内存中的内容，这使得系统以为自己拥有比物理内存更多的可用内容
 
-![virtualMemory](./images/virtualMemory.png)
+![virtualMemory](./images/VirtualMemory.png)
 
 a.物理内存与交换空间内存交换速率 `>` 实际物理内存大小
 
