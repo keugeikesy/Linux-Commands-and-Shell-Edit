@@ -96,7 +96,7 @@ Linux操作系统称运行中的程序为进程
   - 当内核启动时，它会将`init`进程载入虚拟内存
   - 内核在启动其他进程时，会在虚拟内存中给新进程分配一块专有区域来存储该进程用到的数据和代码
 
-    ![processStart](.//images/processStart.png)
+    ![processStart](./images/processStart.png)
 
     
 
