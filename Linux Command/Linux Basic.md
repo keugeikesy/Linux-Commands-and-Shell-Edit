@@ -675,7 +675,7 @@ File菜单下的配置选项
 
 `操作效果`：
 
-![start_New_shell](./images/Fastkey/Start_new_Shell.png)
+![start_New_shell](./images/FastKey/Start_new_Shell.png)
 
 
 
@@ -687,7 +687,7 @@ File菜单下的配置选项
 
 `操作效果`：
 
-![Create_New_Shell_Window](./images/Fastkey/Create_New_Shell_Window.png)
+![Create_New_Shell_Window](./images/FastKey/Create_New_Shell_Window.png)
 
 
 
