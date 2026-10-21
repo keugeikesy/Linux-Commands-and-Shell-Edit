@@ -1,5 +1,6 @@
 # ArchLinux安装
-
+To Dowlond Arch Linux iso by visit https://archlinux.org.
+通过https://archlinux.org下载Arch Linux iso安装镜像。
 ***
 
 ## 1.安装准备
