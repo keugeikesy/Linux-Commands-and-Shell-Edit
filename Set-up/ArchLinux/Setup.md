@@ -66,6 +66,8 @@ VMWare不支持超过电脑处理器内核总数的虚拟机。
 
 ![CreateComputer-08](././images/CreateComputer-08.png)
 
+如果超出计算机所支持的最大处理器数量，VMWare会进行警告提示
+
 ![CreateComputer-09](././images/CreateComputer-09.png)
 
 虚拟机内存可以根据自身电脑实际配置来设置，本电脑内存为`8*2=16GB`，因此选择将虚拟机内存设置为`4GB`
@@ -90,6 +92,7 @@ VMWare不支持超过电脑处理器内核总数的虚拟机。
 
 ![CreateComputer-14](././images/CreateComputer-14.png)
 
+
 ![CreateComputer-15](././images/CreateComputer-15.png)
 
 这里我们选择创建新虚拟磁盘
@@ -108,5 +111,13 @@ VMWare不支持超过电脑处理器内核总数的虚拟机。
 
 ![CreateComputer-19](././images/CreateComputer-19.png)
 
-#### 1.1.2 设置efi启动
+#### 1.1.2 设置EFI启动
+设置efi启动之前我们需要了解，什么是EFI
+```
+EFI英文全称为：Extensible Firmware Interface，即可扩展硬件接口
+作用：
+启动过程中，完成计算机硬件初始化
+作为硬件和操作系统之间的接口
+```
+未设置EFI启动时，安装Arch Linux虚拟机的界面
 
