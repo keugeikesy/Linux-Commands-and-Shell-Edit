@@ -1,4 +1,4 @@
-# ArchLinux安装教程
+# ArchLinux安装
 
 ***
 
